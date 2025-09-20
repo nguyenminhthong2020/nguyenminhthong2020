@@ -44,4 +44,4 @@ I'm a software developer passionate about building scalable applications, and ex
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/nguyen-nguyen-1598b0164/)
-- [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nmthong.work@gmail.com)
+- 📧 nmthong.work@gmail.com
