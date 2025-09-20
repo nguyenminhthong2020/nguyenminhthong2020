@@ -44,11 +44,11 @@ I'm a software developer passionate about building scalable applications, and ex
 ---
 
 ## 📊 GitHub Stats
-![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenminhthong&show_icons=true&theme=tokyonight)
+![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenminhthong2020&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com)  
-- 📧 thong@example.com
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/nguyen-nguyen-1598b0164/))  
+- 📧 nmthong.work@gmail.com
 
