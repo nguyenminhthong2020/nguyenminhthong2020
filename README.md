@@ -18,12 +18,13 @@ I'm a software developer passionate about building scalable applications, and ex
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Front-end
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -39,9 +40,8 @@ I'm a software developer passionate about building scalable applications, and ex
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### Architecture
-- Microservices
+![Microservices](https://img.shields.io/badge/Microservices-4E9CAF?style=for-the-badge&logo=cloud&logoColor=white)
 
 ## 🔗 Connect with me
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/nguyen-nguyen-1598b0164/))  
-- 📧 nmthong.work@gmail.com
-
+- [LinkedIn](https://www.linkedin.com/in/nguyen-nguyen-1598b0164/)
+- [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nmthong.work@gmail.com)
